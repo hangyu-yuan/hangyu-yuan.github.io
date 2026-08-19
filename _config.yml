@@ -8,29 +8,29 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cheng Lu"
+title                    : "Hangyu Yuan"
 title_separator          : "-"
-name                     : &name "Cheng Lu"
-description              : &description "Ph.D. student in Marketing Science at Washington University in St. Louis"
-url                      : https://chenglu1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hangyu Yuan"
+description              : &description "Ph.D. student in Economics at Washington University in St. Louis"
+url                      : https://hangyu-yuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ChengLu1999/chenglu1999.github.io"
+repository               : "hangyu-yuan/hangyu-yuan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot-25.JPG"
-  name             : "Cheng Lu (路程)"
-  bio              : "Ph.D. student in Marketing Science at WashU"
+  avatar           : ""
+  name             : "Hangyu Yuan"
+  bio              : "Ph.D. student in Economics at WashU"
   location         : "St. Louis"
-  email            : "cheng.lu@wustl.edu" 
+  email            : "hangyu.y@wustl.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=w0acT28AAAAJ"
-  cv               : "/assets/CV_Cheng_260430.pdf"
+  googlescholar    : 
+  cv               : "/assets/Hangyu_Yuan_CV.pdf"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
@@ -41,7 +41,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "ChengLu1999"
+  github           : "hangyu-yuan"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
