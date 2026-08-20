@@ -33,6 +33,7 @@ hide_meta: true
   margin: 0.35rem 0 0 0;
   padding: 0;
   text-indent: 0;
+  text-align: left;
 }
 
 /* JMP figure */
@@ -142,7 +143,6 @@ hide_meta: true
 </section>
 
 
-
 <section id="research" class="home-section">
 
   <div class="section-rail">
@@ -181,7 +181,6 @@ hide_meta: true
     </ol>
 
 
-
     <h2>Working Papers</h2>
 
     <ol class="paper-list">
@@ -191,8 +190,7 @@ hide_meta: true
         <p>
           "<strong>For Whom the Bell Thole?
           Employee Lawsuits and Corporate Pension Policies</strong>."
-          <strong>Hangyu Yuan</strong>,
-          with Jared Jennings and Hongpan Zhang.
+          Jared Jennings, <strong>Hangyu Yuan</strong>, and Hongpan Zhang.
           <a href="mailto:hangyu.y@wustl.edu?subject=Request%20for%20For%20Whom%20the%20Bell%20Thole">[Available upon request]</a>
         </p>
 
@@ -207,8 +205,7 @@ hide_meta: true
 
         <p>
           "<strong>Corruption, Regulation and Firms</strong>."
-          <strong>Hangyu Yuan</strong>,
-          with Guangqi Li.
+          Guangqi Li and <strong>Hangyu Yuan</strong>.
           <a href="{{ '/assets/corruption_regulation_firms_GY.pdf' | relative_url }}">[Slides]</a>
         </p>
 
@@ -221,7 +218,6 @@ hide_meta: true
     </ol>
 
 
-
     <h2>Work in Progress</h2>
 
     <ol class="paper-list">
@@ -230,8 +226,7 @@ hide_meta: true
 
         <p>
           "<strong>Age Mobility Barriers and Life-cycle Wage Growth across Countries</strong>."
-          <strong>Hangyu Yuan</strong>,
-          with Yingrui (Stefan) Song.
+          Yingrui (Stefan) Song and <strong>Hangyu Yuan</strong>.
         </p>
 
       </li>
@@ -241,7 +236,6 @@ hide_meta: true
   </div>
 
 </section>
-
 
 
 <section id="contact" class="home-section">
