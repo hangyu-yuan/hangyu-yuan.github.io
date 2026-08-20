@@ -1,4 +1,4 @@
----
+<img width="468" height="34" alt="image" src="https://github.com/user-attachments/assets/6a485b2d-bfe4-415c-990c-d6c89ecc93e1" />---
 permalink: /
 title: "Hangyu Yuan"
 author_profile: false
@@ -189,7 +189,7 @@ hide_meta: true
 
         <p>
           "<strong>For Whom the Bell Thole?
-          Employee Lawsuits and Corporate Pension Policies</strong>."
+          ERISA Lawsuits and Corporate Pension Policy</strong>."
           Jared Jennings, <strong>Hangyu Yuan</strong>, and Hongpan Zhang.
           <a href="mailto:hangyu.y@wustl.edu?subject=Request%20for%20For%20Whom%20the%20Bell%20Thole">[Available upon request]</a>
         </p>
